@@ -1,0 +1,10 @@
+name: Validate PR
+on:
+  pull_request:
+    branches:
+      - cliente*
+jobs:
+  check-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "✅ PR from ${{ github.head_ref }} to ${{ github.base_ref }}"
