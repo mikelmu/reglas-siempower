@@ -67,6 +67,6 @@ Our style guide for authoring YARA-L detection rules can be found [here](STYLE_G
 * [Unified Data Model usage guide](https://cloud.google.com/chronicle/docs/unified-data-model/udm-usage)
 * [Unified Data Model field list](https://cloud.google.com/chronicle/docs/reference/udm-field-list)
 
-### Code Samples (modification)
+### Code Samples
 
 * [Example Code for interacting with Google SecOps' API](https://github.com/chronicle/api-samples-python/tree/master/detect/v1alpha)
